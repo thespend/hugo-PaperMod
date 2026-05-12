@@ -1,0 +1,19 @@
+baseURL = "https://www.bao568.site/"
+languageCode = "zh-CN"
+title = "bao568"
+theme = "hugo-PaperMod"
+
+[params]
+  homeMode = "full"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  description = "记录日常，分享思考"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
