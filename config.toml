@@ -1,7 +1,6 @@
 baseURL = "https://www.bao568.site/"
 languageCode = "zh-CN"
 title = "bao568"
-theme = "hugo-PaperMod"
 
 [params]
   homeMode = "full"
